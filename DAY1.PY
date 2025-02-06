@@ -29,6 +29,7 @@ a="akki"
 print(a)
 print(len(a))
 print(a[0])
+print(type(a))
 
 #indexing 
 name="ABCDEFGHIJKLMNOPQRSTUVWXYZ"
